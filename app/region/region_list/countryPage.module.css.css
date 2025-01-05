@@ -1,0 +1,28 @@
+/* countryPage.module.css */
+.container {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  .countryDetails {
+    margin-top: 20px;
+  }
+  
+  .row {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  
+  .label {
+    font-weight: bold;
+  }
+  
+  .flagImage {
+    width: 50px;
+    height: auto;
+    margin-top: 10px;
+  }
+  
